@@ -1,0 +1,10 @@
+C:\Users\cackman\documents\visual studio 2017\Projects\CCAC Scraper\CCAC Scraper\bin\Debug\CCAC Scraper.exe.config
+C:\Users\cackman\documents\visual studio 2017\Projects\CCAC Scraper\CCAC Scraper\bin\Debug\CCAC Scraper.exe
+C:\Users\cackman\documents\visual studio 2017\Projects\CCAC Scraper\CCAC Scraper\bin\Debug\CCAC Scraper.pdb
+C:\Users\cackman\documents\visual studio 2017\Projects\CCAC Scraper\CCAC Scraper\bin\Debug\AngleSharp.dll
+C:\Users\cackman\documents\visual studio 2017\Projects\CCAC Scraper\CCAC Scraper\bin\Debug\AngleSharp.xml
+C:\Users\cackman\documents\visual studio 2017\Projects\CCAC Scraper\CCAC Scraper\obj\Debug\CCAC_Scraper.Form1.resources
+C:\Users\cackman\documents\visual studio 2017\Projects\CCAC Scraper\CCAC Scraper\obj\Debug\CCAC_Scraper.Properties.Resources.resources
+C:\Users\cackman\documents\visual studio 2017\Projects\CCAC Scraper\CCAC Scraper\obj\Debug\CCAC Scraper.csproj.GenerateResource.Cache
+C:\Users\cackman\documents\visual studio 2017\Projects\CCAC Scraper\CCAC Scraper\obj\Debug\CCAC Scraper.exe
+C:\Users\cackman\documents\visual studio 2017\Projects\CCAC Scraper\CCAC Scraper\obj\Debug\CCAC Scraper.pdb
